@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="98815" started-at="2019-05-21T08:44:44Z" finished-at="2019-05-21T08:46:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="98815" started-at="2019-05-21T08:44:44Z" finished-at="2019-05-21T08:46:22Z">
+      <class name="com.library.com.RanFordBank.TestExecution">
+        <test-method status="PASS" signature="report_html()[pri:0, instance:com.library.com.RanFordBank.TestExecution@ae45eb6]" name="report_html" is-config="true" duration-ms="291" started-at="2019-05-21T08:44:44Z" finished-at="2019-05-21T08:44:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- report_html -->
+        <test-method status="PASS" signature="Send_Tc_to_report(java.lang.reflect.Method)[pri:0, instance:com.library.com.RanFordBank.TestExecution@ae45eb6]" name="Send_Tc_to_report" is-config="true" duration-ms="9" started-at="2019-05-21T08:44:44Z" finished-at="2019-05-21T08:44:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.library.com.RanFordBank.TestExecution.verify_launch()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Send_Tc_to_report -->
+        <test-method status="PASS" signature="verify_launch()[pri:0, instance:com.library.com.RanFordBank.TestExecution@ae45eb6]" name="verify_launch" duration-ms="12041" started-at="2019-05-21T08:44:44Z" finished-at="2019-05-21T08:44:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_launch -->
+        <test-method status="PASS" signature="Send_Tc_to_report(java.lang.reflect.Method)[pri:0, instance:com.library.com.RanFordBank.TestExecution@ae45eb6]" name="Send_Tc_to_report" is-config="true" duration-ms="1" started-at="2019-05-21T08:44:56Z" finished-at="2019-05-21T08:44:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.library.com.RanFordBank.TestExecution.verify_login_Tc()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Send_Tc_to_report -->
+        <test-method status="PASS" signature="verify_login_Tc()[pri:1, instance:com.library.com.RanFordBank.TestExecution@ae45eb6]" name="verify_login_Tc" duration-ms="3264" started-at="2019-05-21T08:44:56Z" finished-at="2019-05-21T08:44:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_login_Tc -->
+        <test-method status="PASS" signature="Send_Tc_to_report(java.lang.reflect.Method)[pri:0, instance:com.library.com.RanFordBank.TestExecution@ae45eb6]" name="Send_Tc_to_report" is-config="true" duration-ms="3" started-at="2019-05-21T08:44:59Z" finished-at="2019-05-21T08:44:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.library.com.RanFordBank.TestExecution.verify_Branches_Tc()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Send_Tc_to_report -->
+        <test-method status="PASS" signature="verify_Branches_Tc()[pri:2, instance:com.library.com.RanFordBank.TestExecution@ae45eb6]" name="verify_Branches_Tc" duration-ms="1017" started-at="2019-05-21T08:44:59Z" finished-at="2019-05-21T08:45:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Branches_Tc -->
+        <test-method status="PASS" signature="Send_Tc_to_report(java.lang.reflect.Method)[pri:0, instance:com.library.com.RanFordBank.TestExecution@ae45eb6]" name="Send_Tc_to_report" is-config="true" duration-ms="1" started-at="2019-05-21T08:45:00Z" finished-at="2019-05-21T08:45:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.library.com.RanFordBank.TestExecution.verify_branch_creation_Tc()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Send_Tc_to_report -->
+        <test-method status="PASS" signature="verify_branch_creation_Tc()[pri:3, instance:com.library.com.RanFordBank.TestExecution@ae45eb6]" name="verify_branch_creation_Tc" duration-ms="12811" started-at="2019-05-21T08:45:00Z" finished-at="2019-05-21T08:45:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_branch_creation_Tc -->
+        <test-method status="PASS" signature="Send_Tc_to_report(java.lang.reflect.Method)[pri:0, instance:com.library.com.RanFordBank.TestExecution@ae45eb6]" name="Send_Tc_to_report" is-config="true" duration-ms="1" started-at="2019-05-21T08:45:13Z" finished-at="2019-05-21T08:45:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.library.com.RanFordBank.TestExecution.verify_branch_search_Tc()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Send_Tc_to_report -->
+        <test-method status="PASS" signature="verify_branch_search_Tc()[pri:4, instance:com.library.com.RanFordBank.TestExecution@ae45eb6]" name="verify_branch_search_Tc" duration-ms="68551" started-at="2019-05-21T08:45:13Z" finished-at="2019-05-21T08:46:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_branch_search_Tc -->
+        <test-method status="PASS" signature="Save_report()[pri:0, instance:com.library.com.RanFordBank.TestExecution@ae45eb6]" name="Save_report" is-config="true" duration-ms="762" started-at="2019-05-21T08:46:22Z" finished-at="2019-05-21T08:46:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Save_report -->
+      </class> <!-- com.library.com.RanFordBank.TestExecution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
